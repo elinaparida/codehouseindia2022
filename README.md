@@ -33,4 +33,4 @@ Once you have completed these tasks, make a pull request to this repository with
 
 `firstname-lastname.md`
 
-`I've finished reading through the pre-req docs and ran at least one example AI/ML app on my laptop!`
+`I've finished reading through the pre-req docs and ran at least one example of the above app on my laptop!`
