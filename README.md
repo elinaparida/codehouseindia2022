@@ -24,7 +24,7 @@ To make sure you are comfortable with the environment we will be using, please r
 
 #### Miscellaneous Track
 1. **[GIT, GitHub Intro](https://www.udemy.com/course/gitbyavinash/)** - GIT Beginners to Advanced
-2. **DB Fundamentals** - Introduction to different DB Technologies - https://www.udemy.com/course/mysqlbasics, https://www.udemy.com/course/sqlpostgres-posrgresql, https://www.udemy.com/course/mongodbessentials
+2. **DB Fundamentals** - Introduction to different DB Technologies - [MySQL](https://www.udemy.com/course/mysqlbasics), [PosrgreSQL Basics](https://www.udemy.com/course/sqlpostgres-posrgresql), [MongoDB Essentials](https://www.udemy.com/course/mongodbessentials)
 
 
 # Completion of pre-req tasks
