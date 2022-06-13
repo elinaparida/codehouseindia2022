@@ -17,5 +17,8 @@ To make sure you are comfortable with the environment we will be using, please r
 
 #### Programming Language Track
 1. **[Go Fundamentals](https://www.udemy.com/course/getgoing/)** - Starting from the ground up and assuming no prior knowledge, this course will teach you to program in the Go programming language from Google.
+2. **[Java Fundamentals](https://www.udemy.com/course/java-tutorial)**, **[Java Fundamentals 1](https://www.udemy.com/course/java-latest-programming-fromzero-java13-java12-java11-java10-java9-j8)** - This course provides complete coverage of the Java programming language and serves as a strong foundation for all Java-based development environments. 
+3. 
+
 
 
