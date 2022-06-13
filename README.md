@@ -20,11 +20,11 @@ To make sure you are comfortable with the environment we will be using, please r
 2. **[Java Fundamentals](https://www.udemy.com/course/java-tutorial)**, **[Java Fundamentals 1](https://www.udemy.com/course/java-latest-programming-fromzero-java13-java12-java11-java10-java9-j8)** - This course provides complete coverage of the Java programming language and serves as a strong foundation for all Java-based development environments. 
 3. **[JavaScript Core](https://www.udemy.com/course/javascript-essentials)**, **[JavaScript Core 1](https://www.udemy.com/course/javascriptfundamentals)**, **[JavaScript Core 2](https://www.udemy.com/course/advanced-and-object-oriented-javascript)** - In this path you will learn the basics of JavaScript as well as more advanced topics such as promises, asynchronous programming, proxies and reflection.
 4. **[React, Redux, Router](https://www.udemy.com/course/reacttutorial/)**, **[React, Redux, Router 1](https://www.udemy.com/course/modern-react/)** - Learn how to use React, Redux, React, Router, and modern JavaScript to build an app with React.
-5. **[Angular](https://www.udemy.com/course/angular-for-beginners-course)** - A quick introduction to the Angular framework, focusing on its most commonly used parts
+5. **[Angular](https://www.udemy.com/course/angular-for-beginners-course)** - A quick introduction to the Angular framework, focusing on its most commonly used parts.
 
-
-
-
+#### Miscellaneous Track
+1. **[GIT, GitHub Intro](https://www.udemy.com/course/gitbyavinash/)** - GIT Beginners to Advanced
+2. **DB Fundamentals** - Introduction to different DB Technologies - https://www.udemy.com/course/mysqlbasics, https://www.udemy.com/course/sqlpostgres-posrgresql, https://www.udemy.com/course/mongodbessentials
 
 
 # Completion of pre-req tasks
